@@ -3,8 +3,6 @@
 
 I have 2 years of experience crafting user-friendly and performant applications using React Native for mobile development and the MERN stacks for web development. I'm passionate about leveraging technology to solve problems and create intuitive experiences for users. I enjoy working on both the front-end and back-end of applications, ensuring a seamless user experience across all touchpoints. I'm a good team player who is always willing to help others and contribute to a positive team dynamic.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aungkaungmyat-is-coding&label=Profile%20views&color=0e75b6&style=flat" alt="aungkaungmyat-is-coding" /> </p>
-
 - 🌱 I’m currently learning **Kotlin and Golang**
 
 - 👨‍💻 All of my projects are available at [https://akm-personal-site.vercel.app](https://akm-personal-site.vercel.app)
