@@ -3,7 +3,7 @@
 
 I have 2 years of experience crafting user-friendly and performant applications using React Native for mobile development and the MERN stacks for web development. I'm passionate about leveraging technology to solve problems and create intuitive experiences for users. I enjoy working on both the front-end and back-end of applications, ensuring a seamless user experience across all touchpoints. I'm a good team player who is always willing to help others and contribute to a positive team dynamic.
 
-- 🌱 I’m currently learning **Kotlin and Golang**
+- 🌱 I’m currently learning **Algorithm and Data Structures**
 
 - 👨‍💻 All of my projects are available at [https://akm-personal-site.vercel.app](https://akm-personal-site.vercel.app)
 
