@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Mobile Developer<br>👯 I’m looking to collaborate on mobile and web app projects<br>🤝 I’m looking for help with backend development and API integration<br>🌱 I’m currently learning Nest.js<br>💬 Ask me about React, Node, and React Native<br>⚡ Fun fact: I love exploring new tech stacks and building cool apps!
+🔭 I’m currently working as a Full Stack Developer<br>👯 I’m looking to collaborate on mobile and web app projects<br>🤝 I’m looking for help with backend development and API integration<br>🌱 I’m currently learning Nest.js<br>💬 Ask me about React, Node, and React Native<br>⚡ Fun fact: I love exploring new tech stacks and building cool apps!
 
 
 ## 🌐 Socials:
