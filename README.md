@@ -98,36 +98,6 @@ Now I'm leveling up the stack underneath. I'm deep into **AWS, DevOps, and infra
 
 <br/>
 
-<!-- ===== LEARNING JOURNEY ===== -->
-## <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="28"> &nbsp;`learning.roadmap`
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#bd93f9','primaryTextColor':'#f8f8f2','primaryBorderColor':'#ff79c6','lineColor':'#8be9fd','secondaryColor':'#44475a','tertiaryColor':'#282a36'}}}%%
-graph LR
-    A[🎨 Frontend Dev] --> B[☁️ AWS Fundamentals]
-    B --> C[🐳 Docker & Containers]
-    C --> D[⚙️ CI/CD Pipelines]
-    D --> E[🏗️ Infrastructure as Code]
-    E --> F[🎯 Solutions Architect]
-    style A fill:#bd93f9,color:#282a36
-    style F fill:#ff79c6,color:#282a36
-```
-
-</div>
-
-| Area | Status | Focus |
-|---|---|---|
-| 🎨 **Frontend mastery** | ✅ Strong | React · Next.js · React Native · TS |
-| ☁️ **AWS core services** | 🚀 In progress | EC2 · S3 · Lambda · Amplify · RDS |
-| 🐳 **Containerization** | 🚀 In progress | Docker · multi-stage builds |
-| ⚙️ **CI/CD** | 📚 Learning | GitHub Actions · automated deploys |
-| 🏗️ **IaC** | 📚 Next up | Terraform · CloudFormation |
-| 🎯 **AWS SAA-C03 cert** | 🎯 2026 goal | Solutions Architect Associate |
-
-<br/>
-
 <!-- ===== EXPERIENCE ===== -->
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> &nbsp;`career.log`
 
