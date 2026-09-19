@@ -1,32 +1,36 @@
 <!--
-  🧛 DRACULA THEMED README · Frontend-focused
-  Palette: #282a36 #44475a #f8f8f2 #6272a4 #8be9fd #50fa7b #ffb86c #ff79c6 #bd93f9 #ff5555 #f1fa8c
+  🐈 CATPPUCCIN MOCHA THEMED README · Full Stack Engineer
+  Palette: base #1e1e2e · mantle #181825 · surface #45475a · text #cdd6f4
+           mauve #cba6f7 · blue #89b4fa · sky #89dceb · teal #94e2d5
+           green #a6e3a1 · yellow #f9e2af · peach #fab387 · pink #f5c2e7 · red #f38ba8
+
+  NOTE: the LinkedIn icon is embedded as a base64 data URI and the AWS badge carries no
+  logo — simple-icons removed the `linkedin` and `amazon*` slugs over trademark
+  restrictions, so shields.io silently drops them. Do NOT put HTML comments between the
+  inline <a>/<img> badges below: it splits them into separate <p> blocks and they stack.
 -->
 
 <div align="center">
 
 <!-- ===== HEADER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,50:bd93f9,100:ff79c6&height=220&section=header&text=Aung%20Kaung%20Myat&fontColor=f8f8f2&fontSize=58&fontAlignY=36&desc=%F0%9F%A7%9B%20Frontend%20Developer%20%E2%80%A2%20Future%20Solutions%20Architect&descSize=18&descAlignY=58&descAlign=50&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,45:cba6f7,100:89b4fa&height=220&section=header&text=Aung%20Kaung%20Myat&fontColor=f5f5ff&fontSize=58&fontAlignY=36&desc=Full%20Stack%20Engineer%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node%20%E2%80%A2%20React%20Native&descSize=17&descAlignY=57&descAlign=50&animation=fadeIn" />
 
 <!-- ===== TYPING ANIMATION ===== -->
 <a href="https://aungkaungmyat-portfolio.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=BD93F9&center=true&vCenter=true&width=640&lines=Frontend+craftsman+%E2%9A%9B%EF%B8%8F+React+%E2%80%A2+Next.js+%E2%80%A2+React+Native;Pixel-perfect+UIs+%26+smooth+UX;Now+leveling+up+%E2%86%92+AWS+%E2%80%A2+DevOps+%E2%80%A2+Infra;Aspiring+Solutions+Architect+%E2%98%81%EF%B8%8F;Open+to+remote+%26+freelance+work" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=CBA6F7&center=true&vCenter=true&width=660&lines=Full+Stack+Engineer+%40+Geek+Squad+Studio;TypeScript+monorepos+%E2%80%94+NestJS+%E2%80%A2+Next.js+%E2%80%A2+Expo;From+Prisma+schema+to+App+Store+release;Terraform-provisioned+AWS+%E2%80%A2+Docker+%E2%80%A2+EAS;Open+to+remote+%26+freelance+work" alt="Typing animation" />
 </a>
 
 <br/>
 
 <!-- ===== BADGES ===== -->
-<img src="https://img.shields.io/badge/Chiang_Mai_🇹🇭-282A36?style=flat&labelColor=44475a&color=bd93f9" />
-<img src="https://komarev.com/ghpvc/?username=akm-coding&style=flat&labelColor=44475a&color=bd93f9&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/akm-coding?style=flat&labelColor=44475a&color=ff79c6&label=FOLLOWERS" />
+<img src="https://img.shields.io/badge/Chiang_Mai_🇹🇭-1E1E2E?style=flat&labelColor=181825&color=cba6f7" />
+<img src="https://komarev.com/ghpvc/?username=akm-coding&style=flat&labelColor=181825&color=89b4fa&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/akm-coding?style=flat&labelColor=181825&color=f5c2e7&label=FOLLOWERS" />
 
 <br/><br/>
 
 <!-- ===== SOCIAL LINKS ===== -->
-<a href="https://aungkaungmyat-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-282A36?style=for-the-badge&logo=vercel&logoColor=BD93F9&labelColor=282A36" /></a>
-<a href="https://www.linkedin.com/in/aung-kaung-myat-b41200242/"><img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=8BE9FD&labelColor=282A36" /></a>
-<a href="https://github.com/akm-coding"><img src="https://img.shields.io/badge/GitHub-282A36?style=for-the-badge&logo=github&logoColor=F8F8F2&labelColor=282A36" /></a>
-<a href="mailto:aungkaungmyat.developer@gmail.com"><img src="https://img.shields.io/badge/Email-282A36?style=for-the-badge&logo=gmail&logoColor=FF5555&labelColor=282A36" /></a>
+<a href="https://aungkaungmyat-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1E1E2E?style=for-the-badge&logo=vercel&logoColor=CBA6F7&labelColor=1E1E2E" /></a><a href="https://www.linkedin.com/in/aung-kaung-myat-b41200242/"><img src="https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRkZGRiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg%3D%3D&labelColor=1E1E2E" /></a><a href="https://github.com/akm-coding"><img src="https://img.shields.io/badge/GitHub-1E1E2E?style=for-the-badge&logo=github&logoColor=CDD6F4&labelColor=1E1E2E" /></a><a href="mailto:aungkaungmyat.developer@gmail.com"><img src="https://img.shields.io/badge/Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=F38BA8&labelColor=1E1E2E" /></a>
 
 </div>
 
@@ -36,23 +40,26 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;`whoami`
 
 ```yaml
-name:        Aung Kaung Myat
-location:    Chiang Mai, Thailand 🇹🇭
-role:        Frontend Developer @ Geek Squad Studio (Bangkok)
-strengths:   React · Next.js · React Native · TypeScript
-learning:    AWS · DevOps · Infrastructure · Solutions Architecture
-goal:        Become a Cloud Solutions Architect ☁️
-mantra:      "Great UX is invisible. Great infra should be too."
+name:      Aung Kaung Myat
+location:  Chiang Mai, Thailand 🇹🇭
+role:      Full Stack Engineer @ Geek Squad Studio (Remote)
+shape:     TypeScript monorepos — one repo, one contract, three targets
+api:       NestJS · Express · Postgres · Redis · Prisma · Drizzle
+web:       Next.js · React · Ant Design · MUI · Tailwind
+mobile:    React Native · Expo · EAS Build & OTA
+infra:     AWS · Terraform · Docker · CI/CD
+mantra:    "Type it once. Ship it everywhere."
 ```
 
-I'm a **frontend developer** who's spent the last few years crafting interfaces — from **5 banking apps** with biometric auth to e-learning platforms, on-demand services, and CMS dashboards. React, Next.js, and React Native are home for me.
+Most of my work lives in **Turborepo + pnpm monorepos** where a NestJS API, a Next.js console, and an Expo app all share the same typed contracts — so a schema change surfaces as a compile error in the mobile client, not a bug in production.
 
-Now I'm leveling up the stack underneath. I'm deep into **AWS, DevOps, and infrastructure** because I want to own more of the system — from the pixel the user taps to the container it runs on. The goal: **Solutions Architect**.
+I've built payment flows, background job queues, realtime channels, identity and access control, and data-ingest pipelines — then carried the same code all the way through EAS to TestFlight and the Play Store. Before that I spent three years in mobile, shipping **5 banking apps** with biometric auth plus e-learning and on-demand products.
 
-- 🎨 **Building:** Pixel-perfect, accessible, performant UIs in React/Next.js
-- 📐 **Studying:** AWS architecture · Docker · CI/CD · IaC · System design
-- 🎯 **Goal 2026:** AWS Solutions Architect certification
-- 💬 **Ask me about:** React Native, frontend performance, design systems
+- 🔭 **Currently:** NestJS + Postgres services, Next.js consoles, and Expo clients out of one repo
+- 🏗️ **Also:** Terraform-provisioned AWS (ECS · S3 · Lambda · SES) and mobile release engineering
+- 🧰 **Wrote:** My company's full-stack starter kit and its engineering standards, from scratch
+- 🌱 **Learning:** Distributed systems, OpenTelemetry observability, and deeper Postgres
+- 💬 **Ask me about:** Monorepo architecture, NestJS, React Native at scale, or surviving app review
 
 <br/>
 
@@ -61,38 +68,51 @@ Now I'm leveling up the stack underneath. I'm deep into **AWS, DevOps, and infra
 
 <div align="center">
 
-**`🎨 Frontend & Mobile — my home base`**
+**`⌨️ Core`**
 
-<img src="https://img.shields.io/badge/React-282A36?style=for-the-badge&logo=react&logoColor=8BE9FD" />
-<img src="https://img.shields.io/badge/Next.js-282A36?style=for-the-badge&logo=nextdotjs&logoColor=F8F8F2" />
-<img src="https://img.shields.io/badge/React_Native-282A36?style=for-the-badge&logo=react&logoColor=8BE9FD" />
-<img src="https://img.shields.io/badge/Expo-282A36?style=for-the-badge&logo=expo&logoColor=F8F8F2" />
-<img src="https://img.shields.io/badge/TypeScript-282A36?style=for-the-badge&logo=typescript&logoColor=8BE9FD" />
-<img src="https://img.shields.io/badge/JavaScript-282A36?style=for-the-badge&logo=javascript&logoColor=F1FA8C" />
-<img src="https://img.shields.io/badge/Tailwind-282A36?style=for-the-badge&logo=tailwindcss&logoColor=8BE9FD" />
-<img src="https://img.shields.io/badge/MUI-282A36?style=for-the-badge&logo=mui&logoColor=8BE9FD" />
-<img src="https://img.shields.io/badge/Shadcn_UI-282A36?style=for-the-badge&logo=shadcnui&logoColor=F8F8F2" />
-<img src="https://img.shields.io/badge/Redux-282A36?style=for-the-badge&logo=redux&logoColor=BD93F9" />
-<img src="https://img.shields.io/badge/Zustand-282A36?style=for-the-badge&logo=react&logoColor=FFB86C" />
-<img src="https://img.shields.io/badge/React_Query-282A36?style=for-the-badge&logo=reactquery&logoColor=FF5555" />
+<img src="https://img.shields.io/badge/TypeScript-1E1E2E?style=for-the-badge&logo=typescript&logoColor=89B4FA&labelColor=1E1E2E" />
+<img src="https://img.shields.io/badge/JavaScript-1E1E2E?style=for-the-badge&logo=javascript&logoColor=F9E2AF&labelColor=1E1E2E" />
+<img src="https://img.shields.io/badge/Node.js-1E1E2E?style=for-the-badge&logo=nodedotjs&logoColor=A6E3A1&labelColor=1E1E2E" />
+<img src="https://img.shields.io/badge/Turborepo-1E1E2E?style=for-the-badge&logo=turborepo&logoColor=F38BA8&labelColor=1E1E2E" />
+<img src="https://img.shields.io/badge/pnpm-1E1E2E?style=for-the-badge&logo=pnpm&logoColor=FAB387&labelColor=1E1E2E" />
 
-**`☁️ Cloud, DevOps & Infra — leveling up`**
+**`🛠️ Backend`**
 
-<img src="https://img.shields.io/badge/AWS-282A36?style=for-the-badge&logo=amazonaws&logoColor=FFB86C" />
-<img src="https://img.shields.io/badge/Amplify-282A36?style=for-the-badge&logo=awsamplify&logoColor=FF79C6" />
-<img src="https://img.shields.io/badge/Lambda-282A36?style=for-the-badge&logo=awslambda&logoColor=FFB86C" />
-<img src="https://img.shields.io/badge/Docker-282A36?style=for-the-badge&logo=docker&logoColor=8BE9FD" />
-<img src="https://img.shields.io/badge/Vercel-282A36?style=for-the-badge&logo=vercel&logoColor=F8F8F2" />
-<img src="https://img.shields.io/badge/GitHub_Actions-282A36?style=for-the-badge&logo=githubactions&logoColor=8BE9FD" />
+<img src="https://img.shields.io/badge/NestJS-1E1E2E?style=for-the-badge&logo=nestjs&logoColor=F38BA8&labelColor=1E1E2E" />
+<img src="https://img.shields.io/badge/Express-1E1E2E?style=for-the-badge&logo=express&logoColor=CDD6F4&labelColor=1E1E2E" />
+<img src="https://img.shields.io/badge/Hono-1E1E2E?style=for-the-badge&logo=hono&logoColor=FAB387&labelColor=1E1E2E" />
+<img src="https://img.shields.io/badge/Socket.io-1E1E2E?style=for-the-badge&logo=socketdotio&logoColor=CDD6F4&labelColor=1E1E2E" />
+<img src="https://img.shields.io/badge/BullMQ-1E1E2E?style=for-the-badge&logo=redis&logoColor=F38BA8&labelColor=1E1E2E" />
 
-**`🛠️ Backend support`**
+**`🗄️ Data`**
 
-<img src="https://img.shields.io/badge/Node.js-282A36?style=for-the-badge&logo=nodedotjs&logoColor=50FA7B" />
-<img src="https://img.shields.io/badge/Express-282A36?style=for-the-badge&logo=express&logoColor=F8F8F2" />
-<img src="https://img.shields.io/badge/Prisma-282A36?style=for-the-badge&logo=prisma&logoColor=BD93F9" />
-<img src="https://img.shields.io/badge/PostgreSQL-282A36?style=for-the-badge&logo=postgresql&logoColor=8BE9FD" />
-<img src="https://img.shields.io/badge/MongoDB-282A36?style=for-the-badge&logo=mongodb&logoColor=50FA7B" />
-<img src="https://img.shields.io/badge/Firebase-282A36?style=for-the-badge&logo=firebase&logoColor=FFB86C" />
+<img src="https://img.shields.io/badge/PostgreSQL-1E1E2E?style=for-the-badge&logo=postgresql&logoColor=89B4FA&labelColor=1E1E2E" />
+<img src="https://img.shields.io/badge/Prisma-1E1E2E?style=for-the-badge&logo=prisma&logoColor=CBA6F7&labelColor=1E1E2E" />
+<img src="https://img.shields.io/badge/Drizzle-1E1E2E?style=for-the-badge&logo=drizzle&logoColor=A6E3A1&labelColor=1E1E2E" />
+<img src="https://img.shields.io/badge/Redis-1E1E2E?style=for-the-badge&logo=redis&logoColor=F38BA8&labelColor=1E1E2E" />
+<img src="https://img.shields.io/badge/Supabase-1E1E2E?style=for-the-badge&logo=supabase&logoColor=A6E3A1&labelColor=1E1E2E" />
+<img src="https://img.shields.io/badge/MongoDB-1E1E2E?style=for-the-badge&logo=mongodb&logoColor=A6E3A1&labelColor=1E1E2E" />
+
+**`🎨 Web & Mobile`**
+
+<img src="https://img.shields.io/badge/React-1E1E2E?style=for-the-badge&logo=react&logoColor=89DCEB&labelColor=1E1E2E" />
+<img src="https://img.shields.io/badge/Next.js-1E1E2E?style=for-the-badge&logo=nextdotjs&logoColor=CDD6F4&labelColor=1E1E2E" />
+<img src="https://img.shields.io/badge/React_Native-1E1E2E?style=for-the-badge&logo=react&logoColor=89DCEB&labelColor=1E1E2E" />
+<img src="https://img.shields.io/badge/Expo-1E1E2E?style=for-the-badge&logo=expo&logoColor=CDD6F4&labelColor=1E1E2E" />
+<img src="https://img.shields.io/badge/Tailwind-1E1E2E?style=for-the-badge&logo=tailwindcss&logoColor=89DCEB&labelColor=1E1E2E" />
+<img src="https://img.shields.io/badge/Ant_Design-1E1E2E?style=for-the-badge&logo=antdesign&logoColor=F38BA8&labelColor=1E1E2E" />
+<img src="https://img.shields.io/badge/MUI-1E1E2E?style=for-the-badge&logo=mui&logoColor=89B4FA&labelColor=1E1E2E" />
+<img src="https://img.shields.io/badge/TanStack_Query-1E1E2E?style=for-the-badge&logo=reactquery&logoColor=F38BA8&labelColor=1E1E2E" />
+<img src="https://img.shields.io/badge/Zustand-1E1E2E?style=for-the-badge&logo=react&logoColor=FAB387&labelColor=1E1E2E" />
+
+**`☁️ Cloud & Infra`**
+
+<img src="https://img.shields.io/badge/AWS-1E1E2E?style=for-the-badge&labelColor=1E1E2E&color=1E1E2E" />
+<img src="https://img.shields.io/badge/Terraform-1E1E2E?style=for-the-badge&logo=terraform&logoColor=CBA6F7&labelColor=1E1E2E" />
+<img src="https://img.shields.io/badge/Docker-1E1E2E?style=for-the-badge&logo=docker&logoColor=89B4FA&labelColor=1E1E2E" />
+<img src="https://img.shields.io/badge/EAS_Build-1E1E2E?style=for-the-badge&logo=expo&logoColor=CDD6F4&labelColor=1E1E2E" />
+<img src="https://img.shields.io/badge/GitHub_Actions-1E1E2E?style=for-the-badge&logo=githubactions&logoColor=89DCEB&labelColor=1E1E2E" />
+<img src="https://img.shields.io/badge/Vercel-1E1E2E?style=for-the-badge&logo=vercel&logoColor=CDD6F4&labelColor=1E1E2E" />
 
 </div>
 
@@ -106,10 +126,10 @@ Now I'm leveling up the stack underneath. I'm deep into **AWS, DevOps, and infra
 <td width="50%" valign="top">
 
 #### 🏢 Geek Squad Studio
-<sub>**Full Stack Developer** · Bangkok</sub>
+<sub>**Full Stack Engineer** · Remote</sub>
 <sub>`Feb 2025 — Present`</sub>
 
-Building CMS apps with **Next.js + Prisma + MUI**. First hands-on with **AWS Amplify Gen2, Lambda, and Docker** — exactly where I want to grow.
+Production **TypeScript monorepos** — NestJS APIs, Next.js consoles, and Expo apps on shared typed contracts. Payments, job queues, realtime, identity, **Terraform**-provisioned AWS. Sole author of the company starter kit.
 
 </td>
 <td width="50%" valign="top">
@@ -118,7 +138,7 @@ Building CMS apps with **Next.js + Prisma + MUI**. First hands-on with **AWS Amp
 <sub>**Mid-Senior Mobile Developer** · Remote</sub>
 <sub>`Sep — Dec 2024`</sub>
 
-**React Native** on-demand cleaning app. Google Maps integration, FCM push notifications, Redux Toolkit, real-time UI sync.
+**React Native** on-demand cleaning app. Google Maps location tracking, FCM push notifications, Redux Toolkit, real-time backend sync.
 
 </td>
 </tr>
@@ -129,7 +149,7 @@ Building CMS apps with **Next.js + Prisma + MUI**. First hands-on with **AWS Amp
 <sub>**Mid Mobile Developer** · Yangon</sub>
 <sub>`Nov 2023 — Mar 2024`</sub>
 
-Cross-platform **e-learning UIs** — interactive components, i18n, Firebase notifications, Play Store releases.
+Cross-platform **e-learning apps** — short-form video lessons, i18n localization, Firebase notifications, Play Store releases.
 
 </td>
 <td width="50%" valign="top">
@@ -138,7 +158,7 @@ Cross-platform **e-learning UIs** — interactive components, i18n, Firebase not
 <sub>**Junior-Mid Mobile Developer** · Yangon</sub>
 <sub>`Jan 2023 — Apr 2024`</sub>
 
-Shipped **5 banking apps** — biometric auth UIs, reusable component libraries, Redux + React Query.
+Shipped **5 banking apps** — biometric auth, secure transaction flows, reusable component libraries, Redux Toolkit + React Query.
 
 </td>
 </tr>
@@ -151,29 +171,23 @@ Shipped **5 banking apps** — biometric auth UIs, reusable component libraries,
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=akm-coding&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akm-coding&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=akm-coding&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=1E1E2E&title_color=CBA6F7&icon_color=89B4FA&text_color=CDD6F4" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akm-coding&layout=compact&hide_border=true&langs_count=8&bg_color=1E1E2E&title_color=CBA6F7&text_color=CDD6F4" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akm-coding&theme=dracula&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=akm-coding&theme=dracula&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akm-coding&hide_border=true&background=1E1E2E&stroke=45475A&ring=CBA6F7&fire=F38BA8&currStreakLabel=89B4FA&sideLabels=CDD6F4&sideNums=CDD6F4&currStreakNum=CDD6F4&dates=A6ADC8" />
 
 </div>
 
 <br/>
 
-<!-- ===== ACTIVITY ===== -->
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;`activity.graph`
+<!-- ===== CONTRIBUTIONS =====
+     The github-readme-activity-graph widget was removed: the service returns
+     402 DEPLOYMENT_DISABLED. Re-add here if it ever comes back online. -->
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;`contribution.snake`
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akm-coding&theme=dracula&hide_border=true&bg_color=282A36&color=BD93F9&line=FF79C6&point=8BE9FD&area=true&area_color=BD93F9" width="98%" />
-
-<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akm-coding/akm-coding/output/github-contribution-grid-snake-dark.svg" />
@@ -185,32 +199,18 @@ Shipped **5 banking apps** — biometric auth UIs, reusable component libraries,
 
 <br/>
 
-<!-- ===== QUOTE ===== -->
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
-
-</div>
-
-<br/>
-
 <!-- ===== FOOTER ===== -->
 <div align="center">
 
-### 🧛 `let's.connect()`
+### 🐈 `let's.connect()`
 
-Frontend dev sharpening into a cloud architect.
-Open to **remote roles**, **freelance**, and **mentorship in AWS/DevOps**.
+Full stack engineer shipping web, mobile, and the infra underneath.
+Open to **remote roles**, **freelance projects**, and interesting collaborations.
 
-<a href="mailto:aungkaungmyat.developer@gmail.com">
-  <img src="https://img.shields.io/badge/Drop_me_a_line-282A36?style=for-the-badge&logo=minutemailer&logoColor=BD93F9&labelColor=282A36" />
-</a>
-<a href="https://aungkaungmyat-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Visit_Portfolio-282A36?style=for-the-badge&logo=vercel&logoColor=FF79C6&labelColor=282A36" />
-</a>
+<a href="mailto:aungkaungmyat.developer@gmail.com"><img src="https://img.shields.io/badge/Drop_me_a_line-1E1E2E?style=for-the-badge&logo=minutemailer&logoColor=CBA6F7&labelColor=1E1E2E" /></a><a href="https://aungkaungmyat-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Visit_Portfolio-1E1E2E?style=for-the-badge&logo=vercel&logoColor=F5C2E7&labelColor=1E1E2E" /></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff79c6,50:bd93f9,100:282a36&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:89b4fa,55:cba6f7,100:1e1e2e&height=120&section=footer" />
 
 </div>
